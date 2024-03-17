@@ -1,0 +1,17 @@
+*~
+,*
+.*.swp
+.*.swo
+.\#*
+\#*\#
+.idea/
+.vscode/
+outputs/
+result-*
+result
+repl-result-*
+tags
+
+.DS_Store
+.mypy_cache
+__pycache__
